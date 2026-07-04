@@ -11,7 +11,7 @@
   </a>
 </p>
 
-📞 +91 7207323859 | ✉️ rajeshganta594@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/) | 🐙 [GitHub](https://github.com/) | 🌐 Portfolio | 🧩 LeetCode | 🏆 CodeChef | 📍 Guntur, India
+📞 +91 7207323859 | ✉️ rajeshganta594@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/) | 🐙 [GitHub](https://github.com/) | 🌐 Portfolio | 🧩 [LeetCode](https://leetcode.com/u/rajeshchowdary594/) | 🏆 [CodeChef](https://www.codechef.com/users/rajesh_ganta09) | 📍 Guntur, India
 
 ---
 
@@ -92,20 +92,20 @@ Computer Science undergraduate specializing in Artificial Intelligence and Machi
 - Email: rajeshganta594@gmail.com
 - Phone: +91 7207323859
 - LinkedIn: https://www.linkedin.com/ (replace with profile link)
-- GitHub: https://github.com/ (replace with profile link)
+- GitHub: https://github.com/Rg0rajesh
 - Portfolio: (replace with your portfolio URL)
-- LeetCode: (replace with LeetCode profile link)
-- CodeChef: (replace with CodeChef profile link)
+- LeetCode: https://leetcode.com/u/rajeshchowdary594/
+- CodeChef: https://www.codechef.com/users/rajesh_ganta09
 
 ---
 
 ## GitHub Profile Widgets (optional)
 
-You can add dynamic GitHub widgets below. Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
+You can add dynamic GitHub widgets below. Replace `Rg0rajesh` with your GitHub username.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rg0rajesh&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rg0rajesh&layout=compact&theme=dark)
 
 ---
 
