@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Rg0rajesh">
-    <img src="https://dummyimage.com/1200x300/0b1220/ffffff&text=Rajesh%20Ganta%20-%20Rg0rajesh" alt="Rajesh Ganta banner" width="100%" />
+    <img src="banner.png" alt="Rajesh Ganta banner" width="100%" />
   </a>
 </p>
 
