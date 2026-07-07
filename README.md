@@ -91,7 +91,7 @@ Computer Science undergraduate specializing in Artificial Intelligence and Machi
 
 - Email: rajeshganta594@gmail.com
 - Phone: +91 7207323859
-- LinkedIn: https://www.linkedin.com/ (replace with profile link)
+- LinkedIn: https://www.linkedin.com/in/ganta-rajesh/
 - GitHub: https://github.com/Rg0rajesh
 - Portfolio: (replace with your portfolio URL)
 - LeetCode: https://leetcode.com/u/rajeshchowdary594/
