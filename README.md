@@ -11,7 +11,8 @@
   </a>
 </p>
 
-📞 +91 7207323859 | ✉️ rajeshganta594@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/) | 🐙 [GitHub](https://github.com/) | 🌐 Portfolio | 🧩 [LeetCode](https://leetcode.com/u/rajeshchowdary594/) | 🏆 [CodeChef](https://www.codechef.com/users/rajesh_ganta09) | 📍 Guntur, India
+📞 +91 7207323859 | ✉️ rajeshganta594@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/ganta-rajesh/
+) | 🐙 [GitHub](https://github.com/) | 🌐 [Portfolio](https://rajeshganta.vercel.app/) | 🧩 [LeetCode](https://leetcode.com/u/rajeshchowdary594/) | 🏆 [CodeChef](https://www.codechef.com/users/rajesh_ganta09) | 📍 Guntur, India
 
 ---
 
@@ -93,7 +94,7 @@ Computer Science undergraduate specializing in Artificial Intelligence and Machi
 - Phone: +91 7207323859
 - LinkedIn: https://www.linkedin.com/in/ganta-rajesh/
 - GitHub: https://github.com/Rg0rajesh
-- Portfolio: (replace with your portfolio URL)
+- Portfolio: https://rajeshganta.vercel.app/
 - LeetCode: https://leetcode.com/u/rajeshchowdary594/
 - CodeChef: https://www.codechef.com/users/rajesh_ganta09
 
